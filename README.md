@@ -1,7 +1,6 @@
 # Waste Sorting Assistant 
 
  Description: My Project is using classification to help people sort out different types of trash and to help people classify the different types of trash. 
-![add image descrition here](direct image link here)
 
 ## The Algorithm
 

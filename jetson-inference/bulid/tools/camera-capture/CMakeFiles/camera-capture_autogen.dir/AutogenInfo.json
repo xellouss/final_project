@@ -1,0 +1,176 @@
+{
+	"BUILD_DIR" : "/home/nvidia/jetson-inference/bulid/tools/camera-capture/camera-capture_autogen",
+	"CMAKE_BINARY_DIR" : "/home/nvidia/jetson-inference/bulid",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/nvidia/jetson-inference/bulid/tools/camera-capture",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/nvidia/jetson-inference/tools/camera-capture",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/nvidia/jetson-inference/tools/camera-capture/CMakeLists.txt",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/nvidia/jetson-inference",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/captureWindow.h",
+			"Mu",
+			"EWIEGA46WW/moc_captureWindow.cpp",
+			null
+		],
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/controlClassify.h",
+			"Mu",
+			"EWIEGA46WW/moc_controlClassify.cpp",
+			null
+		],
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/controlDetection.h",
+			"Mu",
+			"EWIEGA46WW/moc_controlDetection.cpp",
+			null
+		],
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/controlWindow.h",
+			"Mu",
+			"EWIEGA46WW/moc_controlWindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/nvidia/jetson-inference/bulid/tools/camera-capture/camera-capture_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/nvidia/jetson-inference/bulid/tools/camera-capture/camera-capture_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"HAS_OPENCV",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/nvidia/jetson-inference/bulid/aarch64/include",
+		"/home/nvidia/jetson-inference/bulid/aarch64/include/jetson-inference",
+		"/home/nvidia/jetson-inference/bulid/aarch64/include/jetson-utils",
+		"/usr/include/gstreamer-1.0",
+		"/usr/lib/aarch64/gstreamer-1.0/include",
+		"/usr/include/glib-2.0",
+		"/usr/include/libxml2",
+		"/usr/lib/aarch64/glib-2.0/include",
+		"/usr/local/cuda/include",
+		"/usr/include/opencv4",
+		"/usr/include/aarch64-linux-gnu/qt5",
+		"/usr/include/aarch64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/aarch64-linux-gnu/qt5/QtGui",
+		"/usr/include/aarch64-linux-gnu/qt5/QtCore",
+		"/usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/c++/11",
+		"/usr/include/aarch64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/aarch64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/aarch64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/nvidia/jetson-inference/bulid/tools/camera-capture/camera-capture_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/nvidia/jetson-inference/bulid/tools/camera-capture/CMakeFiles/camera-capture_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/nvidia/jetson-inference/bulid/tools/camera-capture/CMakeFiles/camera-capture_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/camera-capture.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/captureWindow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/controlClassify.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/controlDetection.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/nvidia/jetson-inference/tools/camera-capture/controlWindow.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

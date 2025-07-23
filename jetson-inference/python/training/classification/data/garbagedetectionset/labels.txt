@@ -1,0 +1,6 @@
+Biodegradable
+Cardboard
+Glass
+Metal
+Paper
+Plastic
